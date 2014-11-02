@@ -1,0 +1,346 @@
+/* RESPONSIVE THEME */
+
+@media screen and (max-width: 1500px) {
+
+	.sticky #logo-dark {
+		display: none;
+	}	
+	
+	.sticky #logo-short {
+		display: block;
+	}
+
+}
+
+@media screen and (max-width: 1400px) {
+
+	.owl-buttons {
+		display: none !important;
+	}
+					
+}
+
+@media screen and (max-width: 1300px) {
+
+	.quick-menu {
+		display: none !important;
+	}
+	
+}
+
+@media screen and (min-width: 1200px) {	
+		
+	#mobile-menu {
+		display: none !important;
+	}
+		
+}
+
+@media screen and (max-width: 1200px) {
+	
+	/* NO PARALLAX */
+	
+	* {
+		background-attachment: scroll!important;
+	}
+	
+	/* TRANSITION OFF */
+	
+	header.transit {
+		transition: none;
+		-moz-transition: none ;
+		-o-transition: none;
+		-webkit-transition: none;
+		-ms-transition: none;
+	}
+	
+	.animated {
+		-webkit-animation-duration: 0s !important;
+		   -moz-animation-duration: 0s !important;
+			 -o-animation-duration: 0s !important;
+				animation-duration: 0s!important;
+	}
+	
+	.transit-words {
+		visibility: visible;
+	}
+
+	.transit-fade,
+	.transit-left,
+	.transit-right,
+	.transit-top,
+	.transit-bottom,
+	.transit-bouncein,
+	.transit-flip {
+		opacity: 1;
+	}
+		
+	header { 
+		position: absolute;
+	}
+	
+	.main-menu {
+		display: none;
+	}
+	
+	.switch-menu {
+		display: block;
+	}
+		
+	#mobile-menu {
+		margin: 0;
+		height: auto;
+		width: 100%;
+		padding-top: 100px;
+	}
+	
+	#mobile-menu ul {
+		text-align: center;
+		width: 100%;
+	}		
+	
+	#mobile-menu li {
+		display: list-item;
+		margin: 0 auto;
+		width: 100%;
+		line-height: 50px;
+		height: auto;
+		cursor: pointer;
+		border-bottom: 1px solid rgba(255,255,255,0.1);
+	}
+	
+	#mobile-menu li:last-child {
+		border-bottom: none;
+	}
+	
+	#mobile-menu li a {
+		color: #fff;
+		text-transform: uppercase;
+		font-weight: 700;
+	}
+	
+	#mobile-menu .sub-menu li {
+		border: none;	
+	}
+	
+	.sub-menu {
+		position: static;
+		padding-top: 0;
+	}
+		
+		.sticky .main-menu {
+			top: 70px;
+		}
+				
+		.sticky .main-menu li a {
+			color: #fff !important;
+		}
+		
+		.sticky .sub-menu {
+			padding-top: 0;
+		}
+	
+}
+
+@media screen and (max-width: 900px) {
+
+	#footer-copy,
+	.footer-icons {
+		float: none;
+	}
+	
+}
+
+@media screen and (max-width: 800px) {
+	
+	.logo {
+		margin: 0 25px;
+	}
+		
+	.btn-down {
+		display: none;
+	}
+	
+	.btn-up {
+		opacity: 0;
+	}
+	
+	body:hover .btn-up {
+		opacity: 0.3;
+	}
+	
+	.btn-up:hover {
+		opacity: 1 !important;
+	}
+	
+	#intro .owl-controls {
+		display: none !important;
+	}
+	
+	.quick-menu {
+		display: none;
+	}
+	
+	.switch-menu {
+		margin-right: 25px;
+	}
+	
+	#icons-menu {
+		display: none;
+	}
+	
+	.post-wrap iframe {
+		height: 400px;
+	}
+	
+	.slide-image,
+	#post-image,
+	#blog-image {
+		height: 400px;
+	}
+	
+	.page .intro-subtitle {
+		display: none;
+	}
+	
+	.image-box {
+		height: 400px;
+	}	
+	
+	#video #internal-video:after {
+		display: none;
+	}
+	
+	.video-message {
+		display: none;
+	}
+	
+}
+
+@media screen and (max-width: 600px) {
+	
+	.image-box {
+		height: 300px;
+	}
+	
+	.section .col-1-2 .blog-exc {
+		margin-bottom: 50px;
+	}
+	
+	.page .col-1-2 .blog-exc {
+		margin-bottom: 100px;
+	}
+	
+	.blog-row .col-1-2 .blog-detail {	
+		border-bottom: 3px solid #fafafa;
+	}
+	
+}
+
+/* FIX SMARTPHONE */
+
+@media screen and (max-width: 400px) {
+	
+	.logo {
+		margin: 0 25px;
+	}
+	
+	.info-menu {
+		display: none !important;
+	} 
+	
+	.intro-title {
+		padding: 0 25px;
+		font-size: 35px;
+	}
+		
+	.intro-subtitle {
+		display: none;
+	}
+			
+	.btn-up {
+		right: 25px;
+		bottom: 25px;
+	}
+	
+	.header-page {
+		padding: 50px 0;
+	}
+	
+	.header-layer-page {
+		padding: 50px 0;
+	}
+	
+	.header-section {
+		padding: 50px 0;
+	}
+	
+	.overw-list {
+		padding: 25px 0;
+	}
+	
+	.callout-layer {
+		padding: 50px 0;
+	}
+	
+	.callout-icons li {
+		margin: 5px 3px;
+	}
+	
+	.port-filter li {
+		margin: 5px 3px;
+	}
+		
+	.serv-layer {
+		padding: 50px 25px;
+	}
+	
+	.serv-box {
+		margin: 0;
+	}
+	
+	.feat-list {
+		padding: 25px 0;
+	}
+	
+	.blog-list {
+		padding: 0;
+	}
+	
+	.blog-box {
+		margin: 0;
+	}
+	
+	.section .col-1-3 .blog-exc {
+		margin-bottom: 50px;
+	}
+	
+	.page .col-1-3 .blog-exc {
+		margin-bottom: 100px;
+	}
+	
+	.blog-row .col-1-3 .blog-detail {	
+		border-bottom: 3px solid #fafafa;
+	}
+	
+	.quote-layer {
+		padding: 25px 0;
+	}
+	
+	.clients-content {
+		padding: 25px 0;
+	}
+	
+	.post-wrap iframe {
+		height: 300px;
+	}
+	
+	.owl-pagination {
+		display: none;
+	}
+	
+	.gmap {
+		height: 300px;
+	}
+	
+}

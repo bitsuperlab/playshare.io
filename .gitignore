@@ -1,0 +1,23 @@
+#ignore these files when commiting to a git repository
+#----------------------------------------------------------------------------
+
+# bundler state
+/.bundle
+/vendor/bundle/
+tags
+
+# Mac finder artifacts
+.DS_Store
+
+# Textmate project files
+/*.tmpproj
+/.tm_properties
+
+# vim artifacts
+**.swp
+
+# Sass cache
+.sass-cache
+
+# node_modules
+/node_modules/
