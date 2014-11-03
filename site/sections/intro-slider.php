@@ -4,7 +4,7 @@
    
         <div>
         
-            <span class="item-image" style="background-image: url(http://placehold.it/1920x1080);"></span>
+            <span class="item-image" style="background-image: url(/img/slider/slide1.jpg);"></span>
             
             <div id="intro-message">
             
@@ -17,7 +17,7 @@
        
        <div>
        
-            <span class="item-image" style="background-image: url(http://placehold.it/1920x1080);"></span>
+            <span class="item-image" style="background-image: url(/img/slider/slide2.jpg);"></span>
             
             <div id="intro-message">
             
@@ -30,7 +30,7 @@
        
        <div>
        
-            <span class="item-image" style="background-image: url(http://placehold.it/1920x1080);"></span>
+            <span class="item-image" style="background-image: url(/img/slider/slide3.jpg);"></span>
             
             <div id="intro-message">
             
