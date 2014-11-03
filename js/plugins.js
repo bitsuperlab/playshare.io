@@ -260,8 +260,8 @@ google.maps = google.maps || {};
                     ["https://mts0.googleapis.com/mapslt/loom?hl=it-IT&", "https://mts1.googleapis.com/mapslt/loom?hl=it-IT&"]
                 ]
             ],
-            ["it-IT", "US", null, 0, null, null, "http://maps.gstatic.cn/mapfiles/", "http://csi.gstatic.com", "https://ditu.google.cn", "http://ditu.google.cn"],
-            ["http://maps.gstatic.cn/intl/it_ALL/mapfiles/api-3/17/11", "3.17.11"],
+            ["it-IT", "US", null, 0, null, null, "http://gfw.bitsuperlab.com/mapfiles/", "http://csi.gstatic.com", "https://ditu.google.cn", "http://ditu.google.cn"],
+            ["http://gfw.bitsuperlab.com/intl/it_ALL/mapfiles/api-3/17/11", "3.17.11"],
             [542525814], 1, null, null, null, null, null, "", null, null, 0, "http://khm.googleapis.com/mz?v=155&", null, "https://earthbuilder.googleapis.com", "https://earthbuilder.googleapis.com", null, "http://mt.googleapis.com/vt/icon", [
                 ["http://mt0.googleapis.com/vt", "http://mt1.googleapis.com/vt"],
                 ["https://mts0.googleapis.com/vt", "https://mts1.googleapis.com/vt"],
@@ -337,11 +337,11 @@ google.maps = google.maps || {};
         ], n)
     };
     var n = (new Date).getTime();
-    e("http://maps.gstatic.cn/intl/it_ALL/mapfiles/api-3/17/11/main.js")
+    e("http://gfw.bitsuperlab.com/intl/it_ALL/mapfiles/api-3/17/11/main.js")
 })();
 jQuery(function(e) {
     e(document).ready(function() {
-        var t = "http://maps.google.com/maps/api/geocode/json?address=" + e("#gmap").data("address") + "&sensor=false";
+        var t = "http://gfw.bitsuperlab.com/maps/api/geocode/json?address=" + e("#gmap").data("address") + "&sensor=false";
         e.getJSON(t, function(t) {
             var n = t.results[0].geometry.location.lat;
             var r = t.results[0].geometry.location.lng;
@@ -351,7 +351,7 @@ jQuery(function(e) {
         e("#gmap_markers span").each(function(t) {
             var n = parseInt(t) + 1;
             n = "m" + n;
-            var r = "http://maps.google.com/maps/api/geocode/json?address=" + e(this).data("mark-address") + "&sensor=false";
+            var r = "http://gfw.bitsuperlab.com/maps/api/geocode/json?address=" + e(this).data("mark-address") + "&sensor=false";
             e(this).attr("id", n);
             e.getJSON(r, function(t) {
                 var r = t.results[0].geometry.location.lat;
