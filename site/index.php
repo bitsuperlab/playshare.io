@@ -10,7 +10,7 @@
         
         <?php include('sections/callout.php'); ?><!-- // CALLOUT -->
         
-        <?php include('sections/playground.php'); ?><!-- // BG VIDEO -->  
+        //<?php include('sections/playground.php'); ?><!-- // BG VIDEO -->  
                             	
         <?php include('sections/portfolio.php'); ?><!-- // PORTFOLIO -->
             	                            	                	        
@@ -20,7 +20,7 @@
                 
         <?php include('sections/form.php'); ?><!-- // FORM -->        
                                     	    	
-        <?php include('sections/map.php'); ?><!-- // MAP -->
+        //<?php include('sections/map.php'); ?><!-- // MAP -->
                         
         <?php include('sections/widgets.php'); ?><!-- // WIDGETS -->
         
