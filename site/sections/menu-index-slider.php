@@ -70,6 +70,8 @@
             </li>
 -->
             <li><a href="portfolio-page-1.php">team</a></li>
+            <li><a href="http://bitsharesplayfoundation.org">foundation</a></li>
+            <li><a href="http://bitshares.org">bitshares</a></li>
         </ul>
         
     </div>
@@ -90,7 +92,7 @@
             <li data-title="Works" data-scrollto="#portfolio"><i class="icon-box"></i></li>
             <li data-title="Blog" data-scrollto="#blog"><i class="icon-paper"></i></li>
             <li data-title="Contacts" data-scrollto="#form"><i class="icon-mail"></i></li>
-            <li data-title="Map" data-scrollto="#map"><i class="icon-globe"></i></li>
+            <!--<li data-title="Map" data-scrollto="#map"><i class="icon-globe"></i></li>-->
         </ul>
         
         <div class="clear"></div>
@@ -106,7 +108,7 @@
     <ul>
         <li class="menu-item-parent"><a href="index.php">home</a>
             <ul class="sub-menu">
-                <li><a href="index-video.php">home video</a></li>
+                <!--<li><a href="index-video.php">home video</a></li>-->
                 <li><a href="index-parallax.php">home parallax</a></li>
                 <li><a href="index-no-intro.php">home no intro</a></li>
             </ul>
@@ -124,10 +126,11 @@
             <ul class="sub-menu">
                 <li><a href="grid-page.php">columns</a></li>
                 <li><a href="elements-page.php">elements</a></li>
-                <li><a href="typography-page.php">typography</a></li>
-                <li><a href="transitions-page.php">transitions</a></li>
+                <!--<li><a href="typography-page.php">typography</a></li>
+                <li><a href="transitions-page.php">transitions</a></li>-->
             </ul>
         </li>
+        <!--
         <li class="menu-item-parent"><a href="portfolio-page-1.php">portfolio</a>
             <ul class="sub-menu">
                 <li><a href="portfolio-page-2.php">portfolio type 2</a></li>
@@ -143,6 +146,7 @@
                 <li><a href="item-side-right.php">sidebar right</a></li>
             </ul>
         </li>
+-->
         <li class="menu-item-parent"><a href="blog-page-1.php">blog</a>
             <ul class="sub-menu">
                 <li><a href="blog-page-2.php">blog type 2</a></li>
@@ -150,6 +154,7 @@
                 <li><a href="blog-page-4.php">blog type 4</a></li>
             </ul>
         </li>
+        <!--
         <li class="menu-item-parent"><a href="post-full.php">posts</a>
             <ul class="sub-menu">
                 <li><a href="post-gallery.php">post gallery</a></li>
@@ -161,6 +166,10 @@
                 <li><a href="post-full-related.php">related posts</a></li>
             </ul>
         </li>
+-->
+        <li><a href="portfolio-page-1.php">team</a></li>
+        <li><a href="http://bitsharesplayfoundation.org">foundation</a></li>
+        <li><a href="http://bitshares.org">bitshares</a></li>
     </ul>
         
 </div>
