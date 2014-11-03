@@ -260,7 +260,7 @@ google.maps = google.maps || {};
                     ["https://mts0.googleapis.com/mapslt/loom?hl=it-IT&", "https://mts1.googleapis.com/mapslt/loom?hl=it-IT&"]
                 ]
             ],
-            ["it-IT", "US", null, 0, null, null, "http://maps.gstatic.com/mapfiles/", "http://csi.gstatic.com", "https://maps.googleapis.com", "http://maps.googleapis.com"],
+            ["it-IT", "US", null, 0, null, null, "http://maps.gstatic.com/mapfiles/", "http://csi.gstatic.com", "https://ditu.google.cn", "http://ditu.google.cn"],
             ["http://maps.gstatic.com/intl/it_ALL/mapfiles/api-3/17/11", "3.17.11"],
             [542525814], 1, null, null, null, null, null, "", null, null, 0, "http://khm.googleapis.com/mz?v=155&", null, "https://earthbuilder.googleapis.com", "https://earthbuilder.googleapis.com", null, "http://mt.googleapis.com/vt/icon", [
                 ["http://mt0.googleapis.com/vt", "http://mt1.googleapis.com/vt"],
