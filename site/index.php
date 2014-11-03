@@ -9,8 +9,6 @@
         <?php include('sections/overview.php'); ?><!-- // OVERVIEW -->
         
         <?php include('sections/callout.php'); ?><!-- // CALLOUT -->
-        
-        //<?php include('sections/playground.php'); ?><!-- // BG VIDEO -->  
                             	
         <?php include('sections/portfolio.php'); ?><!-- // PORTFOLIO -->
             	                            	                	        
@@ -19,8 +17,6 @@
         <?php include('sections/blog.php'); ?><!-- // BLOG -->
                 
         <?php include('sections/form.php'); ?><!-- // FORM -->        
-                                    	    	
-        //<?php include('sections/map.php'); ?><!-- // MAP -->
                         
         <?php include('sections/widgets.php'); ?><!-- // WIDGETS -->
         
