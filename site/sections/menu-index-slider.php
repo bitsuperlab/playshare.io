@@ -9,9 +9,9 @@
         <ul>
             <li class="menu-item-parent"><a href="index.php">home</a>
             	<ul class="sub-menu transit">
-                	<li><a href="index-video.php">home video</a></li>
-                    <li><a href="index-parallax.php">home parallax</a></li>
-                    <li><a href="index-no-intro.php">home no intro</a></li>
+                	<!--<li><a href="index-video.php">home video</a></li>-->
+                    <li><a href="index-parallax.php">Vision</a></li>
+                    <li><a href="index-no-intro.php">FAQs</a></li>
                 </ul>
             </li>
             <li class="menu-item-parent"><a href="page-full.php">pages</a>
@@ -19,18 +19,19 @@
 					<li><a href="about-page.php">about</a></li>
             		<li><a href="services-page.php">services</a></li>
             		<li><a href="contact-page.php">contacts</a></li>
-                	<li><a href="page-side-left.php">sidebar left</a></li>
-                	<li><a href="page-side-right.php">sidebar right</a></li>
+                	<!--<li><a href="page-side-left.php">sidebar left</a></li>-->
+                	<!--<li><a href="page-side-right.php">sidebar right</a></li>-->
                 </ul>
             </li>
             <li class="menu-item-parent"><a href="features-page.php">features</a>
             	<ul class="sub-menu transit">
                 	<li><a href="grid-page.php">columns</a></li>
             		<li><a href="elements-page.php">elements</a></li>
-            		<li><a href="typography-page.php">typography</a></li>
-            		<li><a href="transitions-page.php">transitions</a></li>
+            		<!--<li><a href="typography-page.php">typography</a></li>-->
+            		<!--<li><a href="transitions-page.php">transitions</a></li>-->
                 </ul>
             </li>
+            <!--
             <li class="menu-item-parent"><a href="portfolio-page-1.php">portfolio</a>
             	<ul class="sub-menu transit">
                 	<li><a href="portfolio-page-2.php">portfolio type 2</a></li>
@@ -38,6 +39,7 @@
                 	<li><a href="portfolio-page-4.php">portfolio type 4</a></li>
                 </ul>
             </li>
+
             <li class="menu-item-parent"><a href="item-full.php">projects</a>
             	<ul class="sub-menu transit">
                 	<li><a href="item-slider.php">with slider</a></li>
@@ -46,6 +48,7 @@
                 	<li><a href="item-side-right.php">sidebar right</a></li>
                 </ul>
             </li>
+-->
             <li class="menu-item-parent"><a href="blog-page-1.php">blog</a>
             	<ul class="sub-menu transit">
                 	<li><a href="blog-page-2.php">blog type 2</a></li>
@@ -53,6 +56,7 @@
                 	<li><a href="blog-page-4.php">blog type 4</a></li>
                 </ul>
             </li>
+            <!--
             <li class="menu-item-parent"><a href="post-full.php">posts</a>
             	<ul class="sub-menu transit">
                 	<li><a href="post-gallery.php">post gallery</a></li>
@@ -64,7 +68,8 @@
                 	<li><a href="post-full-related.php">related posts</a></li>
                 </ul>
             </li>
-            <li><a href="http://codecanyon.net/user/unCommons/portfolio?ref=unCommons">buy it</a></li>
+-->
+            <li><a href="portfolio-page-1.php">team</a></li>
         </ul>
         
     </div>
