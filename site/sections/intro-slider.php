@@ -8,8 +8,8 @@
             
             <div id="intro-message">
             
-                <div class="intro-title padd-x-50">Amazing HTML Theme</div>
-                <div class="intro-subtitle marg-x-50 bg-fs-clr">The newest uncommons project</div>
+                <div class="intro-title padd-x-50">Crypto Gateway to Games</div>
+                <div class="intro-subtitle marg-x-50 bg-fs-clr">Decentralized Game Marketplace and No Middle Man</div>
                                    
             </div>  
             
@@ -21,8 +21,8 @@
             
             <div id="intro-message">
             
-                <div class="intro-title padd-x-50">Yes It's not Wordpress</div>
-                <div class="intro-subtitle marg-x-50 bg-fs-clr">Smooth and Performant</div>
+                <div class="intro-title padd-x-50">Blockchain Based Game Platform</div>
+                <div class="intro-subtitle marg-x-50 bg-fs-clr">Open, Transparent and Trustless</div>
                                    
             </div>  
             
@@ -34,8 +34,8 @@
             
             <div id="intro-message">
             
-                <div class="intro-title padd-x-50">A Relaxing user experience</div>
-                <div class="intro-subtitle marg-x-50 bg-fs-clr">Take a moment to feed your eyes</div>
+                <div class="intro-title padd-x-50">Draw The Future</div>
+                <div class="intro-subtitle marg-x-50 bg-fs-clr">Provable fair game and truly random number generation</div>
                                    
             </div>  
             
