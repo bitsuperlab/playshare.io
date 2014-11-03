@@ -17,7 +17,7 @@
 <link href='css/plugins.css' rel='stylesheet' type="text/css">
 
 <!-- GOOGLE FONTS -->
-<link href='http://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://gfw.bitsuperlab.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
 
 <style type="text/css">
 	
