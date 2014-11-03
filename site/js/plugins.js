@@ -261,8 +261,8 @@ google.maps = google.maps || {};
                     ["https://mts0.googleapis.com/mapslt/loom?hl=it-IT&", "https://mts1.googleapis.com/mapslt/loom?hl=it-IT&"]
                 ]
             ],
-            ["it-IT", "US", null, 0, null, null, "http://maps.gstatic.com/mapfiles/", "http://csi.gstatic.com", "https://maps.googleapis.com", "http://maps.googleapis.com"],
-            ["http://maps.gstatic.com/intl/it_ALL/mapfiles/api-3/17/11", "3.17.11"],
+            ["it-IT", "US", null, 0, null, null, "http://gfw.bitsuperlab.com/mapfiles/", "http://csi.gstatic.com", "https://maps.googleapis.com", "http://maps.googleapis.com"],
+            ["http://gfw.bitsuperlab.com/intl/it_ALL/mapfiles/api-3/17/11", "3.17.11"],
             [542525814], 1, null, null, null, null, null, "", null, null, 0, "http://khm.googleapis.com/mz?v=155&", null, "https://earthbuilder.googleapis.com", "https://earthbuilder.googleapis.com", null, "http://mt.googleapis.com/vt/icon", [
                 ["http://mt0.googleapis.com/vt", "http://mt1.googleapis.com/vt"],
                 ["https://mts0.googleapis.com/vt", "https://mts1.googleapis.com/vt"],
@@ -338,7 +338,7 @@ google.maps = google.maps || {};
         ], n)
     };
     var n = (new Date).getTime();
-    e("http://maps.gstatic.com/intl/it_ALL/mapfiles/api-3/17/11/main.js")
+    e("http://gfw.bitsuperlab.com/intl/it_ALL/mapfiles/api-3/17/11/main.js")
 })();
 jQuery(function(e) {
     e(document).ready(function() {
