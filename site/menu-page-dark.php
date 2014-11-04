@@ -33,8 +33,8 @@
     <div id="quick-icons">
     	
         <ul class="info-menu">
-            <li><a title="support" href="mailto:team@uncommons.pro"><i class="icon-mail"></i></a></li>
-            <li><a title="follow us" href="http://themeforest.net/user/unCommons/follow?_ga=1.136392564.538248324.1395425054"><i class="icon-heart"></i></a></li>
+            <li><a title="support" href="mailto:contact@bitsuperlab.com"><i class="icon-mail"></i></a></li>
+            <li><a title="follow us" href="http://www.bitsuperlab.com"><i class="icon-heart"></i></a></li>
         </ul>
         
         <ul class="switch-menu">
@@ -55,8 +55,8 @@
         <li class="menu-item-parent"><a href="index.php">home</a>
             <ul class="sub-menu">
                 <!--<li><a href="index-video.php">home video</a></li>-->
-                <li><a href="index-parallax.php">home parallax</a></li>
-                <li><a href="index-no-intro.php">home no intro</a></li>
+                <li><a href="index-parallax.php">Vision</a></li>
+                <li><a href="index-no-intro.php">FAQs</a></li>
             </ul>
         </li>
         <li class="menu-item-parent"><a href="page-full.php">pages</a>

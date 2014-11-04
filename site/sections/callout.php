@@ -12,7 +12,7 @@
                     
                 <div class="callout-icons">
                 	<ul>
-                    	<li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="0"><a href="http://bitsuperlab.com/BitSharesPlayWhitePaper.pdf"><i class="icon-eye"></i></li>
+                    	<li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="0"><a href="http://bitsuperlab.com/pdf/BitSharesPlayWhitePaper.pdf"><i class="icon-eye"></i></li>
                     	<!--<li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="250"><i class="icon-help"></i></li>
                     	<li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="500"><i class="icon-cloud"></i></li>-->
                     </ul>
