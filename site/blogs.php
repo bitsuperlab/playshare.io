@@ -3,7 +3,7 @@
 
     <div id="blog" class="page">
             
-        <div id="blog-image" style="background-image: url('/img/bg/blog-1.jpg');"></div>
+        <div id="blog-image" style="background-image: url('/img/bg/bg-1.jpg');"></div>
         
         <div class="header-section padd-y-75 bg-gr1-clr">
                     
@@ -23,7 +23,7 @@
                         
                         <div class="blog-frame brd-fs-clr">
                                 
-                            <div class="blog-thumb" style="background-image: url('/img/portfolio/port6-thumb.jpg');">
+                            <div class="blog-thumb" style="background-image: url('/img/portfolio/port6_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
                                     <div class="blog-more nd-clr"><a href="post-full.php">Read More</a></div>
@@ -65,7 +65,7 @@
                         
                         <div class="blog-frame brd-fs-clr">
                                 
-                            <div class="blog-thumb" style="background-image: url('/img/portfolio/port8-thumb.jpg');">
+                            <div class="blog-thumb" style="background-image: url('/img/portfolio/port8_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
                                     <div class="blog-more nd-clr"><a href="post-gallery.php">Read More</a></div>
@@ -107,7 +107,7 @@
                         
                         <div class="blog-frame brd-fs-clr">
                                 
-                            <div class="blog-thumb" style="background-image: url('/img/portfolio/port10-thumb.jpg');">
+                            <div class="blog-thumb" style="background-image: url('/img/portfolio/port10_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
                                     <div class="blog-more nd-clr"><a href="post-slider.php">Read More</a></div>
