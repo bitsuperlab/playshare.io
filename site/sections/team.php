@@ -3,8 +3,8 @@
     <div class="header-section padd-y-75">
         
         <div class="title-section padd-x-25 nd-clr transit-words">Team</div>
-        	<div class="subtitle-section padd-x-25 nd-clr">Purus lectus, <strong> sit amet ipsum id</strong>,volutpat ultricies nisi.<br />
-				Vivamus orci odio, hendrerit ac ante auctor, cursus aliquam.</div>
+        	<div class="subtitle-section padd-x-25 nd-clr">The vision of BitShares Play is to open decentralized door to game assets from crypto world. This requires the effort of diverse
+individuals from around the globe.  Our ever expanding team aims to make BitShares Play a wonderful decentralized service for the game world.</div>
     </div>
         
     <div class="team-content bg-gr1-clr">

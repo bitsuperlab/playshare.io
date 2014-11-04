@@ -18,9 +18,9 @@
                     <div class="col-1-4">
                         <div class="overw-box padd-25 transit-left">
                             <div class="overw-icon fs-clr-hov transit"><i class="icon-heart"></i></div>
-                            <div class="overw-title marg-y-25">No Middle Man</div>
+                            <div class="overw-title marg-y-25">No Middleman</div>
                             <div class="line-center brd-gr2-clr"></div>
-                            <div class="overw-exc">No middle man is the trend of Internet, and the blockchain technology from Bitcoin and BitShares bring it to a higher level we didn't imagine before.</div>
+                            <div class="overw-exc">No middleman is the trend of Internet, and the blockchain technology from Bitcoin and BitShares bring it to a higher level we didn't imagine before.</div>
                         </div>
                     </div>
                     
