@@ -16,7 +16,7 @@
             <li class="menu-item-parent"><a href="page-full.php">Resources</a>
             	<ul class="sub-menu transit">
 					<li><a href="about-page.php">about</a></li>
-            		<li><a href="services-page.php">services</a></li>
+            		<li><a href="services-page.php">consensus</a></li>
             		<li><a href="contact-page.php">contacts</a></li>
                 	<!--<li><a href="page-side-left.php">sidebar left</a></li>-->
                 	<!--<li><a href="page-side-right.php">sidebar right</a></li>-->
@@ -52,24 +52,26 @@
 <div id="mobile-menu">
             
     <ul>
-        <li class="menu-item-parent"><a href="index.php">home</a>
-            <ul class="sub-menu">
-                <!--<li><a href="index-video.php">home video</a></li>-->
-                <li><a href="index-parallax.php">Vision</a></li>
-                <li><a href="index-no-intro.php">FAQs</a></li>
-            </ul>
-        </li>
-        <li class="menu-item-parent"><a href="page-full.php">pages</a>
-            <ul class="sub-menu">
-                <li><a href="about-page.php">about</a></li>
-                <li><a href="services-page.php">services</a></li>
-                <li><a href="contact-page.php">contacts</a></li>
-            </ul>
-        </li>
-        <li><a href="blogs.php">blog</a></li>
-        <li><a href="team.php">team</a></li>
-        <li><a href="http://bitsharesplayfoundation.org">foundation</a></li>
-        <li><a href="http://bitshares.org">bitshares</a></li>
+            <li class="menu-item-parent"><a href="index.php">home</a>
+            	<ul class="sub-menu transit">
+                	<!--<li><a href="index-video.php">home video</a></li>-->
+                    <li><a href="index-parallax.php">Vision</a></li>
+                    <li><a href="faqs.php">FAQs</a></li>
+                </ul>
+            </li>
+            <li class="menu-item-parent"><a href="page-full.php">Resources</a>
+            	<ul class="sub-menu transit">
+					<li><a href="about-page.php">about</a></li>
+            		<li><a href="services-page.php">consensus</a></li>
+            		<li><a href="contact-page.php">contacts</a></li>
+                	<!--<li><a href="page-side-left.php">sidebar left</a></li>-->
+                	<!--<li><a href="page-side-right.php">sidebar right</a></li>-->
+                </ul>
+            </li>
+            <li><a href="blogs.php">blog</a></li>
+            <li><a href="team.php">team</a></li>
+            <li><a href="http://bitsharesplayfoundation.org">foundation</a></li>
+            <li><a href="http://bitshares.org">bitshares</a></li>
     </ul>
         
 </div>
