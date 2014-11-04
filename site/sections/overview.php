@@ -47,7 +47,7 @@
                             <div class="overw-icon fs-clr-hov transit"><i class="icon-check"></i></div>
                             <div class="overw-title marg-y-25">Fast</div>
                             <div class="line-center brd-gr2-clr"></div>
-                            <div class="overw-exc">The advantage of DPOS is that it allows for faster block confirmation and also allows for scalability to the level of VISA's 10,000 payment transactions per second. Meanwhile the system is still decentralized in that there is neither a single point of failure nor a single point of control. Delegates have the rather simple job of signing new blocks and can be fired on command if they do not perform their duties. Consensus on a whole is reached by stakeholders, whereas in traditional Proof-Of-Work schemes only hashing participants contribute to the network consensus, leaving shareholders who don’t mine unrepresented.</div>
+                            <div class="overw-exc">The advantage of DPOS is that it allows for faster block confirmation and also allows for scalability to the level of VISA's 10,000 payment transactions per second. Meanwhile the system is still decentralized in that there is neither a single point of failure nor a single point of control.</div>
                         </div>
                     </div>
                     
