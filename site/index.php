@@ -10,7 +10,7 @@
         
         <?php include('sections/callout.php'); ?><!-- // CALLOUT -->
                             	
-        <?php include('sections/portfolio.php'); ?><!-- // PORTFOLIO -->
+        <!--?php include('sections/portfolio.php'); ?><!-- // PORTFOLIO -->
             	                            	                	        
         <!--?php include('sections/counters-2.php'); ?><!-- // COUNTERS -->
                         

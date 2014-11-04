@@ -50,7 +50,7 @@
             <li data-title="Works" data-scrollto="#portfolio"><i class="icon-box"></i></li>
             <li data-title="Blog" data-scrollto="#blog"><i class="icon-paper"></i></li>
             <li data-title="Contacts" data-scrollto="#form"><i class="icon-mail"></i></li>
-            <li data-title="Map" data-scrollto="#map"><i class="icon-globe"></i></li>
+            <!--<li data-title="Map" data-scrollto="#map"><i class="icon-globe"></i></li>-->
         </ul>
         
     </div>

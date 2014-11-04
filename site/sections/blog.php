@@ -58,7 +58,7 @@
                                             
                             <div class="blog-box padd-25">
                             
-                                <div class="blog-date marg-bott-25 wh-clr">14 Jul 2013</div> 
+                                <div class="blog-date marg-bott-25 wh-clr">22 Oct 2014</div> 
                                 
                                 <div class="blog-thumb" style="background-image: url('/img/portfolio/port8_thumb.jpg');">
                                                                 

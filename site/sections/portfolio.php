@@ -23,7 +23,7 @@
             <div class="col-1-3 transit-bottom">
                 <div class="port-item blockchain" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
-                        <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-full.php">Item Full Width</a></div>
+                        <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="#">Item Full Width</a></div>
                         <div class="line-center brd-gr2-clr"></div>
                         <div class="port-icon">
                         	<i class="icon-maximize"></i>
@@ -35,7 +35,7 @@
             <div class="col-1-3 transit-bottom">
                 <div class="port-item dpos" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
-                        <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-gallery.php">Item with Gallery</a></div>
+                        <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="#">Item with Gallery</a></div>
                         <div class="line-center brd-gr2-clr"></div>
                         <div class="port-icon"><i class="icon-grid"></i></div>
                     </div>
@@ -45,7 +45,7 @@
             <div class="col-1-3 transit-bottom">
                 <div class="port-item bitshares" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
-                        <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-side-left.php">Item with sidebar left</a></div>
+                        <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="#">Item with sidebar left</a></div>
                         <div class="line-center brd-gr2-clr"></div>
                         <div class="port-icon"><i class="icon-content-right"></i></div>
                     </div>
