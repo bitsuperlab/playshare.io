@@ -88,7 +88,7 @@
                                 <div class="line-center brd-gr2-clr"></div>
                                 
                                 <div class="blog-exc">
-                                    Many hold enormous curiosity to what games Play would serve as a host for. The major task for Bitshares Play is to build and develop Play Platform as an exchange platform, and any one of the games on it would be provided by third party developers. 
+                                    Many hold enormous curiosity to what games Play would serve as a host for. The major task for BitShares PLAY is to build and develop Play Platform as an exchange platform, and any one of the games on it would be provided by third party developers. 
                                 </div>
                                 
                             </div>

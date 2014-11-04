@@ -22,7 +22,7 @@
                     </ul>
                 </div>
         
-                <div id="footer-copy" class="padd-x-25">Copyrights &copy; 2014 | <strong>BitShares Play</strong> Powered by <a href="http://bitshares.org"><strong>BitShares</strong></a></div>
+                <div id="footer-copy" class="padd-x-25">Copyrights &copy; 2014 | <strong>BitShares PLAY</strong> Powered by <a href="http://bitshares.org"><strong>BitShares</strong></a></div>
                 
                 <div class="clear"></div>
             

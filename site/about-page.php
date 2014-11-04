@@ -28,7 +28,7 @@
                     <p>BitShares PLAY is a DAC powered by BitShares Technology and supported by the BitShares Community.<br>
                     <strong>BitShares PLAY is an experimental a decentralized, autonomous game assets marketplace and game platform.</strong></p>
                      
-                    <p>playshare.io is targeted to become a online service based on BitShares Play DAC.<br>
+                    <p>playshare.io is targeted to become a online service based on BitShares PLAY DAC.<br>
                     Providing different kinds of services and apis to help game providers to integate to this ecosystem, and normal user to use this brand new technology.</p>
                      
                     <blockquote>Imagine a corporation that engages in economic activity without guidance or direction from humans. Programmed with a mission statement-maximize profit for shareholders from the sale of widgets, for example-the corporation could own capital, enter contracts, and employ robots. People could even be hired for more creative tasks. <br>

@@ -9,7 +9,7 @@
 <!-- META -->
 <meta name="viewport" content="width=device-width, user-scalable=no">
 
-<title>BitShares Play - Decentralized Game Marketplace</title>
+<title>BitShares PLAY - Decentralized Game Marketplace</title>
 
 <!-- CSS LIBS -->
 
