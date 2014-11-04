@@ -15,7 +15,7 @@
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-left">
                     
-                    	<div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.jpg');">
+                    	<div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.png');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">BitSuperLab</div>
@@ -69,7 +69,7 @@
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-left">
                     
-                    	<div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.jpg');">
+                    	<div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.png');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">Clar</div>
@@ -123,7 +123,7 @@
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-right">
                     	
-                        <div class="team-thumb" style="background-image: url('http://placehold.it/400x320');">
+                        <div class="team-thumb" style="background-image: url('/img/team/Qijun.jpg');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">Lora</div>
@@ -150,7 +150,7 @@
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-right">
                     	
-                        <div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.jpg');">
+                        <div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.png');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">Cass</div>
@@ -204,7 +204,7 @@
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-right">
                     	
-                        <div class="team-thumb" style="background-image: url('/img/team/Qijun.jpg');">
+                        <div class="team-thumb" style="background-image: url('/img/team/BitSuperLab.png');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">HeyD</div>
