@@ -35,7 +35,7 @@
     	
         <ul class="info-menu">
             <li><a title="support" href="mailto:contact@bitsuperlab.com"><i class="icon-mail"></i></a></li>
-            <li><a title="follow us" href="http://www.bitsuperlabc.com"><i class="icon-heart"></i></a></li>
+            <li><a title="follow us" href="http://www.bitsuperlab.com"><i class="icon-heart"></i></a></li>
         </ul>
         
         <ul class="switch-menu">

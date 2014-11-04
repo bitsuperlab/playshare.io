@@ -9,7 +9,7 @@
         
     <div class="overw-content">
         
-        <div class="parallax" style="background-image: url('http://placehold.it/1920x1080');">	
+        <div class="parallax" style="background-image: url('/img/bg/blog.jpg');">	
         
             <div class="overw-list padd-y-75 bg-fs-alpha">
                
@@ -47,7 +47,7 @@
                             <div class="overw-icon fs-clr-hov transit"><i class="icon-check"></i></div>
                             <div class="overw-title marg-y-25">Fast</div>
                             <div class="line-center brd-gr2-clr"></div>
-                            <div class="overw-exc">The advantage of DPOS is that it allows for faster block confirmation and also allows for scalability to the level of VISA's 10,000 payment transactions per second. Meanwhile the system is still decentralized in that there is neither a single point of failure nor a single point of control.</div>
+                            <div class="overw-exc">The advantage of DPOS is that it allows for faster block confirmation and also allows for scalability to the level of VISA's 10,000 payment transactions per second.</div>
                         </div>
                     </div>
                     
