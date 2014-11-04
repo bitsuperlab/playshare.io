@@ -2,7 +2,7 @@
     
     <div class="blog-content">
         
-    	<div class="parallax" style="background-image: url('http://placehold.it/1920x1080');">
+    	<div class="parallax" style="background-image: url('/img/bg/blog-1.jpg');">
         
             <div class="blog-layer padd-y-25 bg-bk-alpha">
             
@@ -22,7 +22,7 @@
                             
                                 <div class="blog-date marg-bott-25 wh-clr">07 Aug 2014</div>
                                 
-                                <div class="blog-thumb" style="background-image: url('http://placehold.it/1920x1080');">
+                                <div class="blog-thumb" style="background-image: url('/img/portfolio/port6-thumb.jpg');">
                                                                 
                                     <div class="blog-caption transit">
                                         <div class="blog-more nd-clr"><a href="post-full.php">Read More</a></div>
@@ -60,7 +60,7 @@
                             
                                 <div class="blog-date marg-bott-25 wh-clr">14 Jul 2013</div> 
                                 
-                                <div class="blog-thumb" style="background-image: url('http://placehold.it/1920x1080');">
+                                <div class="blog-thumb" style="background-image: url('/img/portfolio/port8-thumb.jpg');">
                                                                 
                                     <div class="blog-caption transit">
                                         <div class="blog-more nd-clr"><a href="post-gallery.php">Read More</a></div>
@@ -98,7 +98,7 @@
                             
                                 <div class="blog-date marg-bott-25 wh-clr">08 Aug 2014</div> 
                                 
-                                <div class="blog-thumb" style="background-image: url('http://placehold.it/1920x1080');">
+                                <div class="blog-thumb" style="background-image: url('/img/portfolio/port10-thumb.jpg');">
                                                                 
                                     <div class="blog-caption transit">
                                         <div class="blog-more nd-clr"><a href="post-slider.php">Read More</a></div>
