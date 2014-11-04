@@ -8,9 +8,9 @@
         <ul>
             <li class="menu-item-parent"><a href="index.php">home</a>
             	<ul class="sub-menu transit">
-                	<li><a href="index-video.php">home video</a></li>
-                    <li><a href="index-parallax.php">home parallax</a></li>
-                    <li><a href="index-no-intro.php">home no intro</a></li>
+                	<!--<li><a href="index-video.php">home video</a></li>-->
+                    <li><a href="index-parallax.php">vision</a></li>
+                    <li><a href="index-no-intro.php">faqs</a></li>
                 </ul>
             </li>
             <li class="menu-item-parent"><a href="page-full.php">pages</a>

@@ -11,7 +11,7 @@
             	<ul class="sub-menu transit">
                 	<!--<li><a href="index-video.php">home video</a></li>-->
                     <li><a href="index-parallax.php">Vision</a></li>
-                    <li><a href="index-no-intro.php">FAQs</a></li>
+                    <li><a href="faqs.php">FAQs</a></li>
                 </ul>
             </li>
             <li class="menu-item-parent"><a href="page-full.php">pages</a>
@@ -23,14 +23,15 @@
                 	<!--<li><a href="page-side-right.php">sidebar right</a></li>-->
                 </ul>
             </li>
+            <!--
             <li class="menu-item-parent"><a href="features-page.php">features</a>
             	<ul class="sub-menu transit">
                 	<li><a href="grid-page.php">columns</a></li>
             		<li><a href="elements-page.php">elements</a></li>
-            		<!--<li><a href="typography-page.php">typography</a></li>-->
-            		<!--<li><a href="transitions-page.php">transitions</a></li>-->
+            		<li><a href="typography-page.php">typography</a></li>
+            		<li><a href="transitions-page.php">transitions</a></li>
                 </ul>
-            </li>
+            </li>-->
             <!--
             <li class="menu-item-parent"><a href="portfolio-page-1.php">portfolio</a>
             	<ul class="sub-menu transit">
@@ -69,7 +70,7 @@
                 </ul>
             </li>
 -->
-            <li><a href="portfolio-page-1.php">team</a></li>
+            <li><a href="team.php">team</a></li>
             <li><a href="http://bitsharesplayfoundation.org">foundation</a></li>
             <li><a href="http://bitshares.org">bitshares</a></li>
         </ul>

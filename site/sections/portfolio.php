@@ -21,7 +21,7 @@
         <div class="port-list row">
                                         
             <div class="col-1-3 transit-bottom">
-                <div class="port-item design" style="background-image: url('http://placehold.it/900x563');">
+                <div class="port-item developer" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
                         <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-full.php">Item Full Width</a></div>
                         <div class="line-center brd-gr2-clr"></div>
@@ -33,7 +33,7 @@
             </div>
             
             <div class="col-1-3 transit-bottom">
-                <div class="port-item web" style="background-image: url('http://placehold.it/900x563');">
+                <div class="port-item designer" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
                         <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-gallery.php">Item with Gallery</a></div>
                         <div class="line-center brd-gr2-clr"></div>
@@ -43,7 +43,7 @@
             </div>
             
             <div class="col-1-3 transit-bottom">
-                <div class="port-item graphic" style="background-image: url('http://placehold.it/900x563');">
+                <div class="port-item developer" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
                         <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-side-left.php">Item with sidebar left</a></div>
                         <div class="line-center brd-gr2-clr"></div>
@@ -53,7 +53,7 @@
             </div>
                         
             <div class="col-1-3 transit-top">
-                <div class="port-item vector" style="background-image: url('http://placehold.it/900x563');">
+                <div class="port-item developer" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
                         <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-side-right.php">Item with sidebar right</a></div>
                         <div class="line-center brd-gr2-clr"></div>
@@ -63,7 +63,7 @@
             </div>
             
             <div class="col-1-3 transit-top">
-                <div class="port-item web" style="background-image: url('http://placehold.it/900x563');">
+                <div class="port-item developer" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
                         <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a class="lightbox" href="http://placehold.it/1920x1080">Item in Lightbox</a></div>
                         <div class="line-center brd-gr2-clr"></div>
@@ -73,7 +73,7 @@
             </div>
             
             <div class="col-1-3 transit-top">
-                <div class="port-item design" style="background-image: url('http://placehold.it/900x563');">
+                <div class="port-item developer" style="background-image: url('http://placehold.it/900x563');">
                     <div class="port-caption transit">
                         <div class="port-title marg-top-75 marg-left-25 marg-right-25"><a href="item-slider.php">Item with Slider</a></div>
                         <div class="line-center brd-gr2-clr"></div>
