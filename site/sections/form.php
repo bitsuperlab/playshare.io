@@ -3,8 +3,7 @@
 	<div class="header-section padd-y-75">
         
         <div class="title-section padd-x-25 nd-clr transit-words">Contact Form</div>
-        <div class="subtitle-section padd-x-25">Sed sed nibh nec erat molestie cursus. Praesent pretium sed nisl ut rhoncus.<br />
-			Phasellus venenatis hendrerit vestibulum. Curabitur semper rutrum.</div>
+        <div class="subtitle-section padd-x-25">Tell us what you think.</div>
         
     </div>
     
@@ -35,23 +34,25 @@
                 <div class="contact-content transit-top">
                     
                     <div class="contact-message padd-25">
-                    	
+                    	<!--
                         <div class="contact-icons">
                             <li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="0"><i class="icon-clock"></i></li>
                     		<li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="250"><i class="icon-help"></i></li>
                     		<li class="transit-top bg-fs-clr bg-nd-clr-hov" data-delay="500"><i class="icon-mail"></i></li>
-                        </div>
+                        </div>-->
                         
                         <div class="contact-exc">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia, turpis nec convallis volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing.
+                            2020 Kraft Drive, Blacksburg, VA, United States, <br >
+                            Blacksburg, VA 24060
                         </div>
                         
                         <div class="line-left brd-gr2-clr"></div>
                         
                         <div class="contact-detail">                   
-                            <li class="nd-clr"><i class="icon-clock"></i>Open | Mon_Fri 9_13 / 15_18</li>
-                            <li class="nd-clr"><i class="icon-globe"></i>(+000) 123 456 789</li>
-                            <li class="nd-clr"><i class="icon-printer"></i>(+111) 123 456 789</li>
+                            <!--<li class="nd-clr"><i class="icon-clock"></i>Open | Mon_Fri 9_13 / 15_18</li>-->
+                            <li class="nd-clr"><i class="icon-globe"></i>(+86) 021 8013 5167</li>
+                            <li class="nd-clr"><i class="icon-printer"></i>(+86) 021 8013 5399</li>
+                            <li class="nd-clr"><i class="icon-mail"></i>contact#bitsuperlab.com</li>
                         </div>
                         
                     </div>

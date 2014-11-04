@@ -9,7 +9,7 @@
 <!-- META -->
 <meta name="viewport" content="width=device-width, user-scalable=no">
 
-<title>Maya - Smart & Powerful HTML Theme</title>
+<title>BitShares Play - Decentralized Game Marketplace</title>
 
 <!-- CSS LIBS -->
 

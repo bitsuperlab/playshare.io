@@ -12,13 +12,13 @@
                             	
         <?php include('sections/portfolio.php'); ?><!-- // PORTFOLIO -->
             	                            	                	        
-        <?php include('sections/counters-2.php'); ?><!-- // COUNTERS -->
+        <!--?php include('sections/counters-2.php'); ?><!-- // COUNTERS -->
                         
         <?php include('sections/blog.php'); ?><!-- // BLOG -->
                 
         <?php include('sections/form.php'); ?><!-- // FORM -->        
                         
-        <?php include('sections/widgets.php'); ?><!-- // WIDGETS -->
+        <!--?php include('sections/widgets.php'); ?><!-- // WIDGETS -->
         
         <?php include('copy.php'); ?><!-- // FOOTER -->
     	

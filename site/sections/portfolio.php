@@ -2,7 +2,7 @@
 
     <div class="header-section padd-y-75 bg-gr1-clr">
     
-        <div class="title-section padd-x-25 fs-clr transit-words">Our Works</div>
+        <div class="title-section padd-x-25 fs-clr transit-words">Our Team</div>
     
     </div>
                 
@@ -11,10 +11,10 @@
         <div class="port-filter marg-y-50">
             <ul>
             	<li class="fs-clr bg-fs-clr-hov transit selected" data-filter="all">All</li>
-                <li class="fs-clr bg-fs-clr-hov transit" data-filter="design">Design</li>
-                <li class="fs-clr bg-fs-clr-hov transit" data-filter="web">Web</li>
-                <li class="fs-clr bg-fs-clr-hov transit" data-filter="graphic">Graphic</li>
-                <li class="fs-clr bg-fs-clr-hov transit" data-filter="vector">Vector</li>
+                <li class="fs-clr bg-fs-clr-hov transit" data-filter="developer">Developer</li>
+                <li class="fs-clr bg-fs-clr-hov transit" data-filter="designer">Designer</li>
+                <li class="fs-clr bg-fs-clr-hov transit" data-filter="evangelist">EvangeList</li>
+                <li class="fs-clr bg-fs-clr-hov transit" data-filter="market">Market</li>
             </ul>
         </div>
         
