@@ -50,13 +50,7 @@
                 </ul>
             </li>
 -->
-            <li class="menu-item-parent"><a href="blog-page-1.php">blog</a>
-            	<ul class="sub-menu transit">
-                	<li><a href="blog-page-2.php">blog type 2</a></li>
-                	<li><a href="blog-page-3.php">blog type 3</a></li>
-                	<li><a href="blog-page-4.php">blog type 4</a></li>
-                </ul>
-            </li>
+            <li class="menu-item-parent"><a href="blogs.php">blog</a></li>
             <!--
             <li class="menu-item-parent"><a href="post-full.php">posts</a>
             	<ul class="sub-menu transit">
