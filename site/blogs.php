@@ -35,7 +35,7 @@
                             <div class="blog-detail padd-25">
                             
                                 <div class="blog-title fs-clr">
-                                    <a href="post-inner-exchange-model.php">Inner Exchange Model Introduction</a>
+                                    <a href="post-20140807.php">Inner Exchange Model Introduction</a>
                                 </div>
                                                             
                                 <div class="blog-meta">
@@ -77,7 +77,7 @@
                             <div class="blog-detail padd-25">
                             
                                 <div class="blog-title fs-clr">
-                                    <a href="post-what-games-can-play.php">What Games Can You Play</a>
+                                    <a href="post-201401022.php">What Games Can You Play</a>
                                 </div>
                                                             
                                 <div class="blog-meta">
@@ -110,7 +110,7 @@
                             <div class="blog-thumb" style="background-image: url('/img/portfolio/port10_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
-                                    <div class="blog-more nd-clr"><a href="post-20140808.php">Read More</a></div>
+                                    <div class="blog-more nd-clr"><a href="post-201400808.php">Read More</a></div>
                                     <div class="blog-icon"><i class="icon-paper"></i></div>
                                 </div>
                                 

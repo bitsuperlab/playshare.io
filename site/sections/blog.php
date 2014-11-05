@@ -72,7 +72,7 @@
                                 <div class="blog-detail padd-25 bg-gr1-clr">
                                 
                                     <div class="blog-title fs-clr">
-                                        <a href="post-gallery.php">>What Games Can You Play</a>
+                                        <a href="post-1022.php">>What Games Can You Play</a>
                                     </div>
                                     
                                     <div class="blog-meta">
@@ -110,7 +110,7 @@
                                 <div class="blog-detail padd-25 bg-gr1-clr">
                                 
                                     <div class="blog-title fs-clr">
-                                        <a href="post-slider.php">The Way To Resolve "The Last Evil Delegate Problem"</a>
+                                        <a href="post-0808.php">The Way To Resolve "The Last Evil Delegate Problem"</a>
                                     </div>
                                     
                                     <div class="blog-meta">
