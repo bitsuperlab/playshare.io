@@ -19,7 +19,7 @@
                     
                         <h3>BitShares PLAY</h3>
     
-                            BitShares PLAY is positioned to be a self-marketable and self-profitable DAC that would be able to blend into existing network systems to be a sustainable platform that encourages game assets and value-adding services. PLS is the main token of the system, the inital total supply of PLS will be 2 billion, with 100% as maximum delegate pay, no inflation.
+                            BitShares PLAY is positioned to be a self-marketable and self-profitable DAC that would be able to blend into existing network systems to be a sustainable platform that encourages game assets and value-adding services. PLS is the main token of the system, the initial and maximum total supply of PLS will be 2 billion.
                     
                     </div>
                     
