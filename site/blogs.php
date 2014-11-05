@@ -26,7 +26,7 @@
                             <div class="blog-thumb" style="background-image: url('/img/portfolio/port6_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
-                                    <div class="blog-more nd-clr"><a href="post-full.php">Read More</a></div>
+                                    <div class="blog-more nd-clr"><a href="post-20140807.php">Read More</a></div>
                                     <div class="blog-icon"><i class="icon-paper"></i></div>
                                 </div>
                                 
@@ -68,7 +68,7 @@
                             <div class="blog-thumb" style="background-image: url('/img/portfolio/port8_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
-                                    <div class="blog-more nd-clr"><a href="post-gallery.php">Read More</a></div>
+                                    <div class="blog-more nd-clr"><a href="post-20141022.php">Read More</a></div>
                                     <div class="blog-icon"><i class="icon-paper"></i></div>
                                 </div>
                                 
@@ -110,7 +110,7 @@
                             <div class="blog-thumb" style="background-image: url('/img/portfolio/port10_thumb.jpg');">
                                                             
                                 <div class="blog-caption transit">
-                                    <div class="blog-more nd-clr"><a href="post-slider.php">Read More</a></div>
+                                    <div class="blog-more nd-clr"><a href="post-20140808.php">Read More</a></div>
                                     <div class="blog-icon"><i class="icon-paper"></i></div>
                                 </div>
                                 

@@ -17,9 +17,9 @@
                 
                 	<div class="row padd-bott-25">
                     
-                        <h3>Bitshares PLAY</h3>
+                        <h3>BitShares PLAY</h3>
     
-                            Bitshares PLAY is positioned to be a self-marketable and self-profitable DAC that would be able to blend into existing network systems to be a sustainable platform that encourages game assets and value-adding services. PLS is the main token of the system, the inital total supply of PLS will be 2 billion, with 100% as maximum delegate pay.
+                            BitShares PLAY is positioned to be a self-marketable and self-profitable DAC that would be able to blend into existing network systems to be a sustainable platform that encourages game assets and value-adding services. PLS is the main token of the system, the inital total supply of PLS will be 2 billion, with 100% as maximum delegate pay, no inflation.
                     
                     </div>
                     
@@ -73,7 +73,7 @@
                     
                         <h3>Reserved Funds</h3>
                         
-                            Reserved fund is for specific purposes including Faucet, Business Development, Game Incubation, long-term ecosystem building.</br>
+                            Reserved fund is for specific purposes including faucet, business development, game incubation, long-term ecosystem building.</br>
                         
                             Reserved Fund will be locked on initial launch, and will be linear unlocked monthly after launch in 1 year. 
                     
