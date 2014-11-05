@@ -18,7 +18,7 @@
             	<ul class="sub-menu transit">
 					<li><a href="about-page.php">about</a></li>
             		<li><a href="services-page.php">consensus</a></li>
-            		<li><a href="contact-page.php">contacts</a></li>
+            		<li><a href="contacts.php">contacts</a></li>
                 	<!--<li><a href="page-side-left.php">sidebar left</a></li>-->
                 	<!--<li><a href="page-side-right.php">sidebar right</a></li>-->
                 </ul>
@@ -72,7 +72,7 @@
             <ul class="sub-menu">
                 <li><a href="about-page.php">about</a></li>
                 <li><a href="services-page.php">consensus</a></li>
-                <li><a href="contact-page.php">contacts</a></li>
+                <li><a href="contacts.php">contacts</a></li>
                 <!--
                 <li><a href="page-side-left.php">sidebar left</a></li>
                 <li><a href="page-side-right.php">sidebar right</a></li>-->
