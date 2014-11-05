@@ -37,7 +37,7 @@ Then of course, DAC can only explode and the orderly consensual "out of control"
                     
                 </div>
                 
-                <?php include('comments.php'); ?>
+                <!--?php include('comments.php'); ?-->
                 
             </article>
                               

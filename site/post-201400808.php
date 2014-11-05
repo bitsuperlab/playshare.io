@@ -42,7 +42,7 @@ Note: block_ticket_sale means all the ticket sale the evil delegate buy in one b
                     
                 </div>
                 
-                <?php include('comments.php'); ?>
+                <!--?php include('comments.php'); ?-->
                 
             </article>
                               

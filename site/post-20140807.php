@@ -45,7 +45,7 @@ One more thing, every game want to use chips as their game tokens requires:<br>
                     
                 </div>
                 
-                <?php include('comments.php'); ?>
+                <!--?php include('comments.php'); ?-->
                 
             </article>
                               
