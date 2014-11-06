@@ -123,7 +123,7 @@ individuals from around the globe.  Our ever expanding team aims to make BitShar
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-right">
                     	
-                        <div class="team-thumb" style="background-image: url('/img/team/Lora.jpg');">
+                        <div class="team-thumb" style="background-image: url('http://placehold.it/400x320');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">Lora</div>
@@ -177,7 +177,7 @@ individuals from around the globe.  Our ever expanding team aims to make BitShar
                 <div class="col-1-4">
                     <div class="team-box marg-25 transit-right">
                     	
-                        <div class="team-thumb" style="background-image: url('/img/team/Qijun.jpg');">
+                        <div class="team-thumb" style="background-image: url('http://placehold.it/400x320');">
                         
                             <div class="team-caption transit">
                                 <div class="team-name marg-top-25 fs-clr">Qijun</div>
