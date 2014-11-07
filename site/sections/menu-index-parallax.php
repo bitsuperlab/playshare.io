@@ -72,7 +72,7 @@
     <div id="quick-icons">
     	
         <ul class="info-menu">
-            <li><a title="support" href="mailto:team@uncommons.pro"><i class="icon-mail"></i></a></li>
+            <li><a title="support" href="mailto:contact@bitsuperlab.com" data-curtain="false"><i class="icon-mail"></i></a></li>
             <li><a title="follow us" href="http://themeforest.net/user/unCommons/follow?_ga=1.136392564.538248324.1395425054"><i class="icon-heart"></i></a></li>
         </ul>
         
