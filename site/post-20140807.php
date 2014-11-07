@@ -1,33 +1,33 @@
 <?php include('head.php'); ?>
 <?php include('menu-page-clean.php'); ?>
 
-	<div id="post" class="page">
+  <div id="post" class="page">
 
         <div id="post-image" class="row" style="background-image: url('http://placehold.it/1920x1080');">
-        
+
             <div class="header-page padd-y-75">
-        
+
                 <div class="header-layer-page padd-y-75 bg-wh-alpha">
-                
+
                     <div class="title-page padd-x-25 fs-clr">Bitshares Play, PLS and Chips Inner Exchange Model Introduction.</div>
                     <div class="meta-page padd-x-25 fs-clr">HackFisher / 07 aug / tech</div>
-                    
+
                 </div>
-                
+
             </div>
-            
+
         </div>
-        
+
         <div class="post-wrap padd-y-50 boxed">
-                            
+
             <article class="row">
-            
+
                 <div class="post-content padd-x-25">
-        
+
                     <h3>Bitshares Play, PLS and chips inner exchange model introduction</h3>
-                    
+
                     <p>PLS is the main token of the DAC, and chips are special assets issued by the games. <br></p>
-                     
+
                     <p>It is different from Bitshares market issued asset like BitUSD, also different from Bitshares user issued asset. There is an exchange model between PLS and chips, which is part the DAC consensus:<br>
                     Every chip asset are created with some pls collateral recorded by the system, and a total supply. After created, the collateral pls amount will be frozen in the system balance.<br>
                     The game itself is free to adjust its supply according to its own business model, but there will be a system convert price between the chip and pls, according to the pls collateral and chip supply:<br>
@@ -42,36 +42,49 @@ One more thing, every game want to use chips as their game tokens requires:<br>
 <blockquote>1. Provable total supply of the game tokens</blockquote><br>
 <blockquote>2. One way of 1: 1 transfer between chips in Bitshares Play and their system, using cross chain or support system escrow. Or more easily, develop games inside Play Platform.</blockquote><br>
                     </p>
-                    
+
                 </div>
-                
-                <!--?php include('comments.php'); ?-->
-                
+
+                <?php include('comments.php'); ?>
+
             </article>
-                              
+
         </div>
-        
+
         <div class="blog-nav bg-fs-clr padd-25">
-        
-        	<ul>
-            
-            	<li class="blog-prev brd-wh-clr wh-clr bg-wh-clr-hov fs-clr-hov">
+
+          <ul>
+
+              <li class="blog-prev brd-wh-clr wh-clr bg-wh-clr-hov fs-clr-hov">
                     <a href="#"><i class="icon-arrow-left"></i></a>
                 </li>
-                
+
                 <li class="blog-home brd-wh-clr wh-clr bg-wh-clr-hov fs-clr-hov">
-                    <a href="blog-page-1.php"><i class="icon-menu"></i></a>
+                    <a href="blogs.php"><i class="icon-menu"></i></a>
                 </li>
-                        
+
                 <li class="blog-next brd-wh-clr wh-clr bg-wh-clr-hov fs-clr-hov">
                     <a href="#"><i class="icon-arrow-right"></i></a>
                 </li>
-            
+
             </ul>
-        
+
         </div>
-                            
+
     </div>
-    
+
 <?php include('copy.php'); ?>
+<script type="text/javascript">
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'bitshareplay';
+  var disqus_title = jQuery('#post .title-page').text();
+  var disqus_url = document.location.href;
+
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
 <?php include('foot.php'); ?>
