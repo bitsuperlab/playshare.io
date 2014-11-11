@@ -27,9 +27,9 @@
                     <div class="col-1-4">
                         <div class="overw-box padd-25 transit-left">
                             <div class="overw-icon fs-clr-hov transit"><i class="icon-monitor"></i></div>
-                            <div class="overw-title marg-y-25">Trustless</div>
+                            <div class="overw-title marg-y-25">Trust Free</div>
                             <div class="line-center brd-gr2-clr"></div>
-                            <div class="overw-exc">Trustless is the most important feature acheived by decentralized autonomous systems. It will reduce risks and improve efficiency of the system significantly.</div>
+                            <div class="overw-exc">Trust free is the most important feature acheived by decentralized autonomous systems. It will reduce risks and improve efficiency of the system significantly.</div>
                         </div>
                     </div>
                     
