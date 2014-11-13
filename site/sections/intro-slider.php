@@ -22,7 +22,7 @@
             <div id="intro-message">
             
                 <div class="intro-title padd-x-50">Blockchain Based Game Platform</div>
-                <div class="intro-subtitle marg-x-50 bg-fs-clr">Open, Transparent and Trustless</div>
+                <div class="intro-subtitle marg-x-50 bg-fs-clr">Open, Transparent and Trustfree</div>
                                    
             </div>  
             
