@@ -13,9 +13,9 @@
           <div class="col-2-3">
 
                 <div class="form-box marg-25 transit-bottom" style="text-align:center;">
-                    <div class="title-section padd-x-25 nd-clr transit-words">Contact Us</div>
-                    <div class="subtitle-section padd-x-25">Tell us what you think.</div>
-                    <div class="ui-btn ui-btn-large brd-fs-clr bg-fs-clr-hov" style="margin:auto;margin-top:2em;"><a href="mailto:contact@bitsuperlab.com" data-curtain='false'>DROP US A LINE</a></div>
+                    <div class="title-section padd-x-25 nd-clr transit-words">We are hiring!</div>
+                    <div class="subtitle-section padd-x-25">Interested in working with us? </div>
+                    <div class="ui-btn ui-btn-large brd-fs-clr bg-fs-clr-hov" style="margin:auto;margin-top:2em;"><a href="mailto:job@playshare.io" data-curtain='false'>DROP US A LINE</a></div>
 
                 </div>
 
