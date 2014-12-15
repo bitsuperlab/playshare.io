@@ -24,7 +24,6 @@
                 </ul>
             </li>
             <li><a href="blogs.php">blog</a></li>
-            <li><a href="team.php">team</a></li>
             <li><a href="http://bitsharesplayfoundation.org">foundation</a></li>
             <li><a href="http://bitshares.org">bitshares</a></li>
         </ul>
@@ -34,8 +33,8 @@
     <div id="quick-icons">
 
         <ul class="info-menu">
-            <li><a title="support" href="mailto:contact@bitsuperlab.com" data-curtain="false"><i class="icon-mail"></i></a></li>
-            <li><a title="follow us" href="http://www.bitsuperlab.com"><i class="icon-heart"></i></a></li>
+            <li><a title="support" href="mailto:info@playshare.io" data-curtain="false"><i class="icon-mail"></i></a></li>
+            <li><a title="follow us" href="http://playshare.io"><i class="icon-heart"></i></a></li>
         </ul>
 
         <ul class="switch-menu">
